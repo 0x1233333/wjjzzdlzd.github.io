@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjjzzdlzd.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-13T10:50:35.726Z</updated>
+    <updated>2021-04-14T01:20:26.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjjzzdlzd.github.io"/>
     <link rel="self" href="https://wjjzzdlzd.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://wjjzzdlzd.github.io/images/avatar.png</logo>
     <icon>https://wjjzzdlzd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[RFQ与商机]]></title>
+        <id>https://wjjzzdlzd.github.io/post/rfq-yu-shang-ji/</id>
+        <link href="https://wjjzzdlzd.github.io/post/rfq-yu-shang-ji/">
+        </link>
+        <updated>2021-04-14T01:15:44.000Z</updated>
+        <content type="html"><![CDATA[<p>商机：<br>
+最近90天内针对店铺产品信息和公司信息买家发送的有效询盘和RFQ报价量。<br>
+收到询盘<br>
+分配客户<br>
+首次跟进<br>
+持续跟进<br>
+订单转化<br>
+老客营销<br>
+三种错误：<br>
+1:只看内容：只看询盘内容。忽略买家90天行为数据，以及对客户进行调研<br>
+2:问题过多：业务员问客户问题比客户问我们还多<br>
+3:模版回复：不同产品，不同国家客户都用一种模板回答<br>
+回复技巧：<br>
+1:及时回复，越快越好<br>
+2:分析背景：分析客户背景，包括客户90天行为数据。邮箱/国家等等<br>
+精准匹配：根据客户需求，匹配最适合产品，而不是最贵的产品。<br>
+RFQ报价影响商机数<br>
+1.采购直达权益：20/月<br>
+2.重视采购直达市场表现影像因子，市场表现越，分值越高。从而获得奖励报价权益最高<br>
+营销活动提升商机<br>
+通过报名国际站官方动，快速推广引流，提升整站，提高整站店铺访客量，获取更多店铺询盘及产品询盘。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿里定向推广笔记]]></title>
         <id>https://wjjzzdlzd.github.io/post/a-li-ding-xiang-tui-guang-bi-ji/</id>
