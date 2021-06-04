@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjjzzdlzd.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-14T01:20:26.097Z</updated>
+    <updated>2021-06-04T01:07:26.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjjzzdlzd.github.io"/>
     <link rel="self" href="https://wjjzzdlzd.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://wjjzzdlzd.github.io/images/avatar.png</logo>
     <icon>https://wjjzzdlzd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[好累]]></title>
+        <id>https://wjjzzdlzd.github.io/post/hao-lei/</id>
+        <link href="https://wjjzzdlzd.github.io/post/hao-lei/">
+        </link>
+        <updated>2021-06-04T00:49:59.000Z</updated>
+        <content type="html"><![CDATA[<p>好累，好累<br>
+活得没有滋味<br>
+只想躺平<br>
+<img src="https://wjjzzdlzd.github.io/post-images/1622768626275.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记]]></title>
+        <id>https://wjjzzdlzd.github.io/post/ri-ji/</id>
+        <link href="https://wjjzzdlzd.github.io/post/ri-ji/">
+        </link>
+        <updated>2021-04-15T02:02:49.000Z</updated>
+        <content type="html"><![CDATA[<p>最近总是感觉身体疲惫，很困。应该是哪里出现问题了吧。<br>
+学习也提不起精神，工作状态也不好。<br>
+哎......😇</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RFQ与商机]]></title>
         <id>https://wjjzzdlzd.github.io/post/rfq-yu-shang-ji/</id>
