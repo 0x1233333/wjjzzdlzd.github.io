@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjjzzdlzd.github.io</id>
     <title>Gridea</title>
-    <updated>2021-09-07T01:06:14.619Z</updated>
+    <updated>2021-09-18T02:49:48.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjjzzdlzd.github.io"/>
     <link rel="self" href="https://wjjzzdlzd.github.io/atom.xml"/>
@@ -10,4 +10,18 @@
     <logo>https://wjjzzdlzd.github.io/images/avatar.png</logo>
     <icon>https://wjjzzdlzd.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2021.9.18]]></title>
+        <id>https://wjjzzdlzd.github.io/post/2021918/</id>
+        <link href="https://wjjzzdlzd.github.io/post/2021918/">
+        </link>
+        <updated>2021-09-18T02:44:31.000Z</updated>
+        <content type="html"><![CDATA[<p>遭到弹劾了🤡<br>
+没想到居然会发生这种事...<br>
+感叹下自己过低的情商。虽然不是很在意，但是确实是给自己带来了麻烦。<br>
+工作也是，摸鱼也好，能力也好。。。不够认真负责，没有付出。遭人弹劾很正常。<br>
+再者，女人的小99真的是太多了，伤不起。。。<br>
+能当面说的话非得背后嘀咕。。。。。</p>
+]]></content>
+    </entry>
 </feed>
